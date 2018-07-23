@@ -11,7 +11,7 @@ render uses Go's [html/template](http://golang.org/pkg/html/template/) package t
 package main
 
 import (
-  "github.com/go-martini/martini"
+  "github.com/zhin/martini"
   "github.com/martini-contrib/render"
 )
 
@@ -119,7 +119,7 @@ package main
 import (
   "encoding/xml"
 
-  "github.com/go-martini/martini"
+  "github.com/zhin/martini"
   "github.com/martini-contrib/render"
 )
 
@@ -166,7 +166,7 @@ package main
 import (
   "encoding/xml"
 
-  "github.com/go-martini/martini"
+  "github.com/zhin/martini"
   "github.com/martini-contrib/render"
 )
 
